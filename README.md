@@ -10,5 +10,4 @@
       <img align="right" width=390 src="[https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Thevenin-Jonathan&theme=darcula&layout=compact)" />
     </a>
   </div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
