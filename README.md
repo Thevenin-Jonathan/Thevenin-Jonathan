@@ -5,6 +5,9 @@
 </h1>
 <br>
 
+[![Linkedin: jonathan-thevenin](https://img.shields.io/badge/-Jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-thevenin/)](https://www.linkedin.com/in/jonathan-thevenin/)
+[![Itch.io: Warzonefury](https://img.shields.io/badge/-Warzonefury-FA5C5C?style=flat-square&logo=Itch.io&logoColor=white&link=https://warzonefury.itch.io/)](https://warzonefury.itch.io/)
+
 <p align="center">
   Salut, je suis Jonathan Thevenin, développeur web fullstack Javascript !
   <br>
